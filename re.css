@@ -1,0 +1,41 @@
+.item{
+margin-top:70px;
+}
+
+.item1{
+font-size:50px
+}
+.item2{
+font-size:40px;
+}
+#wi{
+margin-top:80px;
+font-size:20px;
+}
+#ln{
+margin-top:50px;
+}
+#sk{
+margin-top:30px;
+font-size:20px;
+}
+.bd{
+
+
+font-size:20px;
+}
+
+#bd1{
+margin-top:50px;
+
+font-size:20px;
+border: 1px solid;
+padding: 10px;
+box-shadow: 5px 10px 20px blue inset;
+
+}
+
+.co{
+margin-top:50px;
+
+}
